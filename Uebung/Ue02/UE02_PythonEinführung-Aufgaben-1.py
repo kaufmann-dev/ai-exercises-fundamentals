@@ -21,12 +21,12 @@
 print("\"Now, I'm able to use signle quotes!\"")
 
 
-# In[101]:
+# In[3]:
 
 
 #3.
-hello, world = "Hello", "World"
-print ("Hello, world!")
+x, y = "Hello", "world"
+print (f"{x}, {y}!")
 
 
 # ## Task 2.1.2 - Indexbasierte String-Manipulation
