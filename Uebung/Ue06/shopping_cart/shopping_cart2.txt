@@ -1,0 +1,11 @@
+#Nr;Gesamtpreis;Bezeichnung
+4711;2;100.20;Riesenschultuete;
+0815;10;2.33;Kaugummi;
+9273;3;50.2;Schaufel;
+8437;1;98.89;Billig-Handy;
+3479;4;5;Parkticket;
+3906;8;2.00;Suessigkeiten;
+7220;1;1.40;Kaffee;
+9302;3;15.5;Teller;
+1284;1;300;Sony-Kopfhoerer;
+3470;4;500;Autoraeder;
