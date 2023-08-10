@@ -1,4 +1,0 @@
-#Nr;Menge;Einzelpreis;Bezeichnung
-4711;2;100.20;Riesenschultüte
-0815;10;2.33;Kaugummi
-.......
