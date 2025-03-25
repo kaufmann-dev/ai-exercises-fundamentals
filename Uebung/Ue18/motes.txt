@@ -1,4 +1,0 @@
-np.argmax(mode.predict(np.array([img])))
-img = np.array(img)
-model.add(Dense(784, activatoin="relu", input_shape=(784,)))
-model.fit(train_images, train_labels, epochs=10, batch_size=64)
