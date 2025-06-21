@@ -1,7 +1,11 @@
-# Custom
+### Custom ###
 *.lnk
-*.pdf
-*.txt
+*.zip
+**/Ue18/*/
+**/Ue20/test1/
+**/Ue20/train/
+# *.pdf
+# *.txt
 
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks,python
